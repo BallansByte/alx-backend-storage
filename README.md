@@ -1,2 +1,3 @@
 # alx-backend-storage
 The "alx-backend-storage" repository is dedicated to exploring various backend storage solutions, focusing on concepts like data storage, management, and retrieval. It includes hands-on projects and exercises that cover different storage systems
+The alx-backend-storage repository is dedicated to exploring various backend storage solutions, focusing on concepts like data storage, management, and retrieval. It includes hands-on projects and exercises that cover different storage systems, such as relational databases, NoSQL databases, and file storage techniques. The repository serves as a comprehensive guide for understanding backend storage fundamentals and their practical implementation in modern applications.
